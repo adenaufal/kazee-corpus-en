@@ -1,5 +1,4 @@
-# kazee-corpus-en
-Kazee POS Tagging Corpus (English)
+# Kazee POS Tagging Corpus (English)
 
 I made this corpus for finishing my internship project at PT Kazee Digital Indonesia.
 
