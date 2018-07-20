@@ -1274,7 +1274,8 @@ over	IN
 the	DT
 great	JJ
 ape	NN
-s", 	POS
+' '
+s 	POS
 body	NN
 ,	,
 74	CD
