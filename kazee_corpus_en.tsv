@@ -1294,7 +1294,8 @@ wounds	NNS
 and	CC
 the	DT
 orangutan	NN
-s", 	POS
+'	'
+s 	POS
 left	JJ
 foot	NN
 had	VBD
@@ -1625,7 +1626,8 @@ aware	JJ
 of	IN
 the	DT
 animal	NN
-s", 	POS
+'	'
+s 	POS
 endangered	VBN
 status	NN
 ,	,
@@ -1738,7 +1740,8 @@ Environment	NNP
 and	CC
 Forestry	NNP
 Ministry	NNP
-s", 	POS
+'	'
+s 	POS
 official	JJ
 estimate	NN
 .	.
@@ -1813,7 +1816,8 @@ meat	NN
 .	.
 The	DT
 crocodile	NN
-s", 	POS
+'	'
+s 	POS
 owner	NN
 reportedly	RB
 said	VBD
@@ -1864,7 +1868,8 @@ meat	NN
 .	.
 The	DT
 crocodile	NN
-s", 	POS
+'	'
+s 	POS
 owner	NN
 reportedly	RB
 said	VBD
@@ -2180,7 +2185,8 @@ crocodile	NN
 .	.
 After	IN
 Sugito	NNP
-s", 	POS
+'	'
+s 	POS
 funeral	JJ
 ,	,
 the	DT
@@ -2791,7 +2797,8 @@ crime	NN
 said	VBD
 the	DT
 ministry	NN
-s", 	POS
+'	'
+s 	POS
 biodiversity	NN
 conservation	NN
 director	NN
@@ -2822,7 +2829,8 @@ in	IN
 the	DT
 Serbajadi	NNP
 CRU	NNP
-s", 	POS
+'	'
+s 	POS
 jurisdiction	NN
 .	.
 The	DT
@@ -2832,7 +2840,8 @@ found	VBD
 and	CC
 confiscated	VBD
 Bunta	NNP
-s", 	POS
+'	'
+s 	POS
 missing	VBG
 tusk	NN
 .	.
