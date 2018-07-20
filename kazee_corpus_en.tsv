@@ -6419,8 +6419,7 @@ delegation-level	JJ
 talks	NNS
 with	IN
 the	DT
-country	NN
-s", 	POS
+country's	POS
 top	JJ
 leadership	NN
 and	CC
@@ -6520,8 +6519,7 @@ will	MD
 be	VB
 early's	JJ
 bird	NN
-Olympics	NNP
-", 	POS
+Olympics'	POS
 to	TO
 avoid	VB
 intense	JJ
